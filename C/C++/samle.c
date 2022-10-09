@@ -2,4 +2,7 @@
 int main(){
 
 printf("hacktober fest"")
+       
+       
+printf("hacktober fest"")
 }
